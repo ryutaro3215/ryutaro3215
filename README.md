@@ -6,7 +6,7 @@ This is self introduction repo.
 <!--   <img src="https://komarev.com/ghpvc/?ryutaro3215=ryutaro3215" /> -->
 <!-- </div> -->
 
-![Spinoza](https://github.com/user-attachments/assets/30121d35-dd51-40e5-8dcd-d6ad84284ed6)
+![Spinoza](https://github.com/user-attachments/assets/3fca4883-afaf-4fca-9eee-cb4481300208)
 
 <!-- 2. プロフィールや連絡先を変更 -->
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Hi there
